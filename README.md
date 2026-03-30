@@ -18,6 +18,14 @@
 7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained
 ---
 
+# Analysis and Design
+
+<img width="599" height="797" alt="image" src="https://github.com/user-attachments/assets/a34a7ab8-ba0e-47b5-b535-9c124447bb18" />
+
+<img width="564" height="359" alt="image" src="https://github.com/user-attachments/assets/e3a06d17-dc9b-46b2-a10d-1b0363140c32" />
+
+
+
 ## CIRCUIT DIAGRAM
 
 <img width="973" height="448" alt="image" src="https://github.com/user-attachments/assets/6bf521f0-cc4f-4bad-b877-d636616c84a4" />
@@ -29,6 +37,8 @@
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1056" height="570" alt="image" src="https://github.com/user-attachments/assets/4c906954-a5fd-4a9f-810d-dc475a1df804" />
+
 
 
 ---
