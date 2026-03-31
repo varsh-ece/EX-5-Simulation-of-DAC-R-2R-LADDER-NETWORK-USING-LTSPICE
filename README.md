@@ -20,9 +20,8 @@
 
 # Analysis and Design
 
-<img width="599" height="797" alt="image" src="https://github.com/user-attachments/assets/a34a7ab8-ba0e-47b5-b535-9c124447bb18" />
-
-<img width="564" height="359" alt="image" src="https://github.com/user-attachments/assets/e3a06d17-dc9b-46b2-a10d-1b0363140c32" />
+<img width="542" height="714" alt="image" src="https://github.com/user-attachments/assets/e27be12c-a748-4114-92d1-b39035a3021d" />
+<img width="540" height="332" alt="image" src="https://github.com/user-attachments/assets/230ab53b-a6b6-422f-9518-2c3749b74220" />
 
 
 
@@ -43,5 +42,6 @@
 
 ---
 ##RESULT:
-Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
+<img width="518" height="269" alt="image" src="https://github.com/user-attachments/assets/fe688955-4e34-4b64-ba8c-4d1c67b70091" />
+
 ---
